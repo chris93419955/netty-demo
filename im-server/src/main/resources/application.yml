@@ -1,0 +1,10 @@
+netty:
+  server:
+    socket:
+      port:
+        from: 9100
+        to: 9110
+    ws:
+      port:
+        from: 9111
+        to: 9120
